@@ -1,14 +1,23 @@
 body {
-    box-sizing: border-box;
     margin: 0;
+    padding: 1vh;
+    background-color: black;
 }
 
 .container {
-    display: grid;
-    height: 100vh;
     background-color: darkslategray;
+    display: grid;
+    height: 94vh;
+    aspect-ratio: 1/1;
+    padding: 2vh;
+    margin:auto;
 }
 
 .square {
     background-color: bisque;
+    aspect-ratio: 1/1;
+}
+
+.square.hover {
+    background-color: aqua;
 }

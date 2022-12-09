@@ -1,3 +1,4 @@
 # etch-a-sketch
-Part of The Odin Project Curriculum
 JavaScript grid with display features.
+
+Web page can be found at https://tomhervieu9.github.io/etch-a-sketch/
